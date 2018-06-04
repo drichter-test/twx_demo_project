@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2018-06-04T10:25:54.053+02:00"
+         lastModifiedDate="2018-06-04T10:28:22.949+02:00"
          name="GitDemoProject_Entity3"
          projectName="GitDemoProject"
          published="false"
@@ -40,8 +40,8 @@
                     <PropertyDefinition
                      aspect.cacheTime="0.0"
                      aspect.dataChangeType="VALUE"
-                     aspect.isLogged="false"
-                     aspect.isPersistent="false"
+                     aspect.isLogged="true"
+                     aspect.isPersistent="true"
                      aspect.isReadOnly="false"
                      baseType="STRING"
                      category=""
@@ -52,8 +52,8 @@
                     <PropertyDefinition
                      aspect.cacheTime="0.0"
                      aspect.dataChangeType="VALUE"
-                     aspect.isLogged="false"
-                     aspect.isPersistent="false"
+                     aspect.isLogged="true"
+                     aspect.isPersistent="true"
                      aspect.isReadOnly="false"
                      baseType="STRING"
                      category=""
@@ -79,7 +79,18 @@
                  name="wusel"></AlertDefinitions>
             </AlertConfigurations>
             <ImplementedShapes></ImplementedShapes>
-            <ThingProperties></ThingProperties>
+            <ThingProperties>
+                <dsfsdfds>
+                    <Value></Value>
+                    <Timestamp>1970-01-01T01:00:00.000+01:00</Timestamp>
+                    <Quality>UNKNOWN</Quality>
+                </dsfsdfds>
+                <wusel>
+                    <Value></Value>
+                    <Timestamp>1970-01-01T01:00:00.000+01:00</Timestamp>
+                    <Quality>UNKNOWN</Quality>
+                </wusel>
+            </ThingProperties>
         </Thing>
     </Things>
 </Entities>
