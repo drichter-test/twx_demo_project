@@ -15,11 +15,11 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2018-06-04T10:25:45.433+02:00"
+         lastModifiedDate="2018-06-04T10:44:08.820+02:00"
          name="GitDemoProject_ValueStream"
          projectName="GitDemoProject"
          published="false"
-         tags=""
+         tags="Application:GitDemoProject"
          thingTemplate="ValueStream"
          valueStream="">
             <avatar></avatar>

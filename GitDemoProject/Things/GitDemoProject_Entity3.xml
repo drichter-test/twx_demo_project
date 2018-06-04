@@ -15,11 +15,11 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2018-06-04T10:28:22.949+02:00"
+         lastModifiedDate="2018-06-04T10:43:57.447+02:00"
          name="GitDemoProject_Entity3"
          projectName="GitDemoProject"
          published="false"
-         tags=""
+         tags="Application:GitDemoProject"
          thingTemplate="GenericThing"
          valueStream="GitDemoProject_ValueStream">
             <avatar></avatar>
@@ -83,19 +83,19 @@
                 <dsfsdfds>
                     <Value>
                     <![CDATA[
-                    f
+                    j
                     ]]>
                     </Value>
-                    <Timestamp>2018-06-04T10:30:13.138+02:00</Timestamp>
+                    <Timestamp>2018-06-04T10:47:47.988+02:00</Timestamp>
                     <Quality>GOOD</Quality>
                 </dsfsdfds>
                 <wusel>
                     <Value>
                     <![CDATA[
-                    e
+                    i
                     ]]>
                     </Value>
-                    <Timestamp>2018-06-04T10:30:10.636+02:00</Timestamp>
+                    <Timestamp>2018-06-04T10:47:45.014+02:00</Timestamp>
                     <Quality>GOOD</Quality>
                 </wusel>
             </ThingProperties>

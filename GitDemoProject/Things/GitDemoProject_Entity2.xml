@@ -15,11 +15,11 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2018-06-01T10:53:55.970+02:00"
+         lastModifiedDate="2018-06-04T10:43:40.052+02:00"
          name="GitDemoProject_Entity2"
          projectName="GitDemoProject"
          published="false"
-         tags=""
+         tags="Application:GitDemoProject"
          thingTemplate="GenericThing"
          valueStream="">
             <avatar></avatar>
